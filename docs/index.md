@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.19
+## Updated on 2026.01.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -22,6 +22,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-16**|**Applying Formal Methods Tools to an Electronic Warfare Codebase (Experience report)**|Letitia W. Li et.al.|[2601.11510](http://arxiv.org/abs/2601.11510)|null|
+|**2026-01-15**|**Multi-Agent Taint Specification Extraction for Vulnerability Detection**|Jonah Ghebremichael et.al.|[2601.10865](http://arxiv.org/abs/2601.10865)|null|
 |**2026-01-14**|**Deep Learning-based Binary Analysis for Vulnerability Detection in x86-64 Machine Code**|Mitchell Petingola et.al.|[2601.09157](http://arxiv.org/abs/2601.09157)|null|
 |**2026-01-12**|**Examining the Effectiveness of Transformer-Based Smart Contract Vulnerability Scan**|Emre Balci et.al.|[2601.07334](http://arxiv.org/abs/2601.07334)|null|
 |**2026-01-11**|**Zer0n: An AI-Assisted Vulnerability Discovery and Blockchain-Backed Integrity Framework**|Harshil Parmar et.al.|[2601.07019](http://arxiv.org/abs/2601.07019)|null|
@@ -48,6 +50,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-15**|**Multi-Agent Taint Specification Extraction for Vulnerability Detection**|Jonah Ghebremichael et.al.|[2601.10865](http://arxiv.org/abs/2601.10865)|null|
 |**2026-01-06**|**SastBench: A Benchmark for Testing Agentic SAST Triage**|Jake Feiglin et.al.|[2601.02941](http://arxiv.org/abs/2601.02941)|null|
 |**2026-01-04**|**Adaptive Hierarchical Evaluation of LLMs and SAST tools for CWE Prediction in Python**|Muntasir Adnan et.al.|[2601.01320](http://arxiv.org/abs/2601.01320)|null|
 |**2025-11-06**|**Explaining Software Vulnerabilities with Large Language Models**|Oshando Johnson et.al.|[2511.04179](http://arxiv.org/abs/2511.04179)|null|
