@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.21
+## Updated on 2026.01.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -22,6 +22,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-21**|**A Prompt-Based Framework for Loop Vulnerability Detection Using Local LLMs**|Adeyemi Adeseye et.al.|[2601.15352](http://arxiv.org/abs/2601.15352)|null|
+|**2026-01-19**|**Analysis of Long Range Dependency Understanding in State Space Models**|Srividya Ravikumar et.al.|[2601.13048](http://arxiv.org/abs/2601.13048)|null|
+|**2026-01-17**|**Enhancing Fuzz Testing Efficiency through Automated Fuzz Target Generation**|Chi Thien Tran et.al.|[2601.11972](http://arxiv.org/abs/2601.11972)|null|
 |**2026-01-16**|**Applying Formal Methods Tools to an Electronic Warfare Codebase (Experience report)**|Letitia W. Li et.al.|[2601.11510](http://arxiv.org/abs/2601.11510)|null|
 |**2026-01-15**|**Multi-Agent Taint Specification Extraction for Vulnerability Detection**|Jonah Ghebremichael et.al.|[2601.10865](http://arxiv.org/abs/2601.10865)|null|
 |**2026-01-14**|**Deep Learning-based Binary Analysis for Vulnerability Detection in x86-64 Machine Code**|Mitchell Petingola et.al.|[2601.09157](http://arxiv.org/abs/2601.09157)|null|
