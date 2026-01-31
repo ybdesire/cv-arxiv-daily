@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.26
+## Updated on 2026.01.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -22,6 +22,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-27**|**LLM-based Vulnerability Detection at Project Scale: An Empirical Study**|Fengjie Li et.al.|[2601.19239](http://arxiv.org/abs/2601.19239)|null|
+|**2026-01-27**|**AgenticSCR: An Autonomous Agentic Secure Code Review for Immature Vulnerabilities Detection**|Wachiraphan Charoenwet et.al.|[2601.19138](http://arxiv.org/abs/2601.19138)|null|
+|**2026-01-26**|**MulVul: Retrieval-augmented Multi-Agent Code Vulnerability Detection via Cross-Model Prompt Evolution**|Zihan Wu et.al.|[2601.18847](http://arxiv.org/abs/2601.18847)|null|
+|**2026-01-25**|**Multi-Agent End-to-End Vulnerability Management for Mitigating Recurring Vulnerabilities**|Zelong Zheng et.al.|[2601.17762](http://arxiv.org/abs/2601.17762)|null|
 |**2026-01-21**|**A Prompt-Based Framework for Loop Vulnerability Detection Using Local LLMs**|Adeyemi Adeseye et.al.|[2601.15352](http://arxiv.org/abs/2601.15352)|null|
 |**2026-01-19**|**Analysis of Long Range Dependency Understanding in State Space Models**|Srividya Ravikumar et.al.|[2601.13048](http://arxiv.org/abs/2601.13048)|null|
 |**2026-01-17**|**Enhancing Fuzz Testing Efficiency through Automated Fuzz Target Generation**|Chi Thien Tran et.al.|[2601.11972](http://arxiv.org/abs/2601.11972)|null|
@@ -53,6 +57,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-27**|**AgenticSCR: An Autonomous Agentic Secure Code Review for Immature Vulnerabilities Detection**|Wachiraphan Charoenwet et.al.|[2601.19138](http://arxiv.org/abs/2601.19138)|null|
+|**2026-01-24**|**YASA: Scalable Multi-Language Taint Analysis on the Unified AST at Ant Group**|Yayi Wang et.al.|[2601.17390](http://arxiv.org/abs/2601.17390)|null|
 |**2026-01-15**|**Multi-Agent Taint Specification Extraction for Vulnerability Detection**|Jonah Ghebremichael et.al.|[2601.10865](http://arxiv.org/abs/2601.10865)|null|
 |**2026-01-06**|**SastBench: A Benchmark for Testing Agentic SAST Triage**|Jake Feiglin et.al.|[2601.02941](http://arxiv.org/abs/2601.02941)|null|
 |**2026-01-04**|**Adaptive Hierarchical Evaluation of LLMs and SAST tools for CWE Prediction in Python**|Muntasir Adnan et.al.|[2601.01320](http://arxiv.org/abs/2601.01320)|null|

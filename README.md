@@ -1,4 +1,4 @@
-## Updated on 2026.01.26
+## Updated on 2026.01.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,7 +17,7 @@
 |---|---|---|---|---|
 |**2021-10-14**|**Active SLAM over Continuous Trajectory and Control: A Covariance-Feedback Approach**|Shumon Koga et.al.|[2110.07546](http://arxiv.org/abs/2110.07546)|null|
 
-<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260131>back to top</a>)</p>
 
 ## LLMVulDetect
 
@@ -26,12 +26,16 @@
 |**2025-12-24**|**CoTDeceptor:Adversarial Code Obfuscation Against CoT-Enhanced LLM Code Agents**|Haoyang Li et.al.|[2512.21250](http://arxiv.org/abs/2512.21250)|null|
 |**2025-04-05**|**Responsible Development of Offensive AI**|Ryan Marinelli et.al.|[2504.02701](http://arxiv.org/abs/2504.02701)|null|
 
-<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260131>back to top</a>)</p>
 
 ## VulDetect
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-27**|**LLM-based Vulnerability Detection at Project Scale: An Empirical Study**|Fengjie Li et.al.|[2601.19239](http://arxiv.org/abs/2601.19239)|null|
+|**2026-01-27**|**AgenticSCR: An Autonomous Agentic Secure Code Review for Immature Vulnerabilities Detection**|Wachiraphan Charoenwet et.al.|[2601.19138](http://arxiv.org/abs/2601.19138)|null|
+|**2026-01-26**|**MulVul: Retrieval-augmented Multi-Agent Code Vulnerability Detection via Cross-Model Prompt Evolution**|Zihan Wu et.al.|[2601.18847](http://arxiv.org/abs/2601.18847)|null|
+|**2026-01-25**|**Multi-Agent End-to-End Vulnerability Management for Mitigating Recurring Vulnerabilities**|Zelong Zheng et.al.|[2601.17762](http://arxiv.org/abs/2601.17762)|null|
 |**2026-01-21**|**A Prompt-Based Framework for Loop Vulnerability Detection Using Local LLMs**|Adeyemi Adeseye et.al.|[2601.15352](http://arxiv.org/abs/2601.15352)|null|
 |**2026-01-19**|**Analysis of Long Range Dependency Understanding in State Space Models**|Srividya Ravikumar et.al.|[2601.13048](http://arxiv.org/abs/2601.13048)|null|
 |**2026-01-17**|**Enhancing Fuzz Testing Efficiency through Automated Fuzz Target Generation**|Chi Thien Tran et.al.|[2601.11972](http://arxiv.org/abs/2601.11972)|null|
@@ -59,12 +63,14 @@
 |**2025-12-14**|**SHERLOCK: A Deep Learning Approach To Detect Software Vulnerabilities**|Saadh Jawwadh et.al.|[2512.12593](http://arxiv.org/abs/2512.12593)|null|
 |**2025-12-14**|**Diverse LLMs vs. Vulnerabilities: Who Detects and Fixes Them Better?**|Arastoo Zibaeirad et.al.|[2512.12536](http://arxiv.org/abs/2512.12536)|null|
 
-<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260131>back to top</a>)</p>
 
 ## SAST
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-27**|**AgenticSCR: An Autonomous Agentic Secure Code Review for Immature Vulnerabilities Detection**|Wachiraphan Charoenwet et.al.|[2601.19138](http://arxiv.org/abs/2601.19138)|null|
+|**2026-01-24**|**YASA: Scalable Multi-Language Taint Analysis on the Unified AST at Ant Group**|Yayi Wang et.al.|[2601.17390](http://arxiv.org/abs/2601.17390)|null|
 |**2026-01-15**|**Multi-Agent Taint Specification Extraction for Vulnerability Detection**|Jonah Ghebremichael et.al.|[2601.10865](http://arxiv.org/abs/2601.10865)|null|
 |**2026-01-06**|**SastBench: A Benchmark for Testing Agentic SAST Triage**|Jake Feiglin et.al.|[2601.02941](http://arxiv.org/abs/2601.02941)|null|
 |**2026-01-04**|**Adaptive Hierarchical Evaluation of LLMs and SAST tools for CWE Prediction in Python**|Muntasir Adnan et.al.|[2601.01320](http://arxiv.org/abs/2601.01320)|null|
@@ -77,7 +83,7 @@
 |**2025-08-08**|**SCAR: State-Space Compression for AI-Driven Resource Management in 6G-Enabled Vehicular Infotainment Systems**|Ioan-Sorin Comsa et.al.|[2508.06243](http://arxiv.org/abs/2508.06243)|null|
 |**2025-10-15**|**Dependency Pairs for Expected Innermost Runtime Complexity and Strong Almost-Sure Termination of Probabilistic Term Rewriting**|Jan-Christoph Kassing et.al.|[2507.12918](http://arxiv.org/abs/2507.12918)|null|
 
-<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260131>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
