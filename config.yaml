@@ -29,6 +29,8 @@ keywords:
     "VulDetect":
         filters: ["Vulnerability Detect"]
     "FirmwareVulDetect":
-        filters: ["firmware vulnerability detect"]
+        filters: ["firmware vulnerability detect", "Embedded System Vulnerability", "IoT Vulnerability"]
     "SAST":
         filters: ["SAST"]
+
+    
