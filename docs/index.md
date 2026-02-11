@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.09
+## Updated on 2026.02.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -22,6 +22,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-10**|**ReSIM: Re-ranking Binary Similarity Embeddings to Improve Function Search Performance**|Gianluca Capozzi et.al.|[2602.09548](http://arxiv.org/abs/2602.09548)|null|
+|**2026-02-07**|**Secure Code Generation via Online Reinforcement Learning with Vulnerability Reward Model**|Tianyi Wu et.al.|[2602.07422](http://arxiv.org/abs/2602.07422)|null|
+|**2026-02-05**|**Artificial Intelligence in Open Source Software Engineering: A Foundation for Sustainability**|S M Rakib UI Karim et.al.|[2602.07071](http://arxiv.org/abs/2602.07071)|null|
+|**2026-02-06**|**Beyond Function-Level Analysis: Context-Aware Reasoning for Inter-Procedural Vulnerability Detection**|Yikun Li et.al.|[2602.06751](http://arxiv.org/abs/2602.06751)|null|
+|**2026-02-06**|**Evaluating and Enhancing the Vulnerability Reasoning Capabilities of Large Language Models**|Li Lu et.al.|[2602.06687](http://arxiv.org/abs/2602.06687)|null|
+|**2026-02-05**|**Persistent Human Feedback, LLMs, and Static Analyzers for Secure Code Generation and Vulnerability Detection**|Ehsan Firouzi et.al.|[2602.05868](http://arxiv.org/abs/2602.05868)|null|
+|**2026-02-05**|**Toward Quantum-Safe Software Engineering: A Vision for Post-Quantum Cryptography Migration**|Lei Zhang et.al.|[2602.05759](http://arxiv.org/abs/2602.05759)|null|
 |**2026-02-04**|**I Can't Believe It's Not a Valid Exploit**|Derin Gezgin et.al.|[2602.04165](http://arxiv.org/abs/2602.04165)|null|
 |**2026-02-03**|**Co-RedTeam: Orchestrated Security Discovery and Exploitation with LLM Agents**|Pengfei He et.al.|[2602.02164](http://arxiv.org/abs/2602.02164)|null|
 |**2026-02-02**|**The Semantic Trap: Do Fine-tuned LLMs Learn Vulnerability Root Cause or Just Functional Pattern?**|Feiyang Huang et.al.|[2601.22655](http://arxiv.org/abs/2601.22655)|null|
@@ -56,10 +63,26 @@ layout: default
 |**2025-12-14**|**SHERLOCK: A Deep Learning Approach To Detect Software Vulnerabilities**|Saadh Jawwadh et.al.|[2512.12593](http://arxiv.org/abs/2512.12593)|null|
 |**2025-12-14**|**Diverse LLMs vs. Vulnerabilities: Who Detects and Fixes Them Better?**|Arastoo Zibaeirad et.al.|[2512.12536](http://arxiv.org/abs/2512.12536)|null|
 
+## FirmwareVulDetect
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-02**|**Cyberscurity Threats and Defense Mechanisms in IoT network**|Trung Dao et.al.|[2601.00556](http://arxiv.org/abs/2601.00556)|null|
+|**2025-11-03**|**Detecting Vulnerabilities from Issue Reports for Internet-of-Things**|Sogol Masoumzadeh et.al.|[2511.01941](http://arxiv.org/abs/2511.01941)|null|
+|**2025-01-15**|**CveBinarySheet: A Comprehensive Pre-built Binaries Database for IoT Vulnerability Analysis**|Lingfeng Chen et.al.|[2501.08840](http://arxiv.org/abs/2501.08840)|null|
+|**2025-01-05**|**Predicting IoT Device Vulnerability Fix Times with Survival and Failure Time Models**|Carlos A Rivera A et.al.|[2501.02520](http://arxiv.org/abs/2501.02520)|null|
+|**2025-06-03**|**Combining Threat Intelligence with IoT Scanning to Predict Cyber Attack**|Jubin Abhishek Soni et.al.|[2411.17931](http://arxiv.org/abs/2411.17931)|null|
+|**2024-04-02**|**From Seaweed to Security: The Emergence of Alginate in Compromising IoT Fingerprint Sensors**|Pouria Rad et.al.|[2404.02150](http://arxiv.org/abs/2404.02150)|null|
+|**2023-11-05**|**The New Frontier of Cybersecurity: Emerging Threats and Innovations**|Daksh Dave et.al.|[2311.02630](http://arxiv.org/abs/2311.02630)|null|
+|**2023-01-08**|**A Continent-Wide Assessment of Cyber Vulnerability Across Africa**|Abdijabar Yussuf Mohamed et.al.|[2301.03008](http://arxiv.org/abs/2301.03008)|null|
+|**2022-02-05**|**Iota: A Framework for Analyzing System-Level Security of IoTs**|Zheng Fang et.al.|[2202.02506](http://arxiv.org/abs/2202.02506)|null|
+|**2021-12-29**|**IoT Security Challenges and Mitigations: An Introduction**|Stuart Millar et.al.|[2112.14618](http://arxiv.org/abs/2112.14618)|null|
+
 ## SAST
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-10**|**QRS: A Rule-Synthesizing Neuro-Symbolic Triad for Autonomous Vulnerability Discovery**|George Tsigkourakos et.al.|[2602.09774](http://arxiv.org/abs/2602.09774)|null|
 |**2026-01-30**|**Sifting the Noise: A Comparative Study of LLM Agents in Vulnerability False Positive Filtering**|Yunpeng Xiong et.al.|[2601.22952](http://arxiv.org/abs/2601.22952)|null|
 |**2026-01-30**|**RealSec-bench: A Benchmark for Evaluating Secure Code Generation in Real-World Repositories**|Yanlin Wang et.al.|[2601.22706](http://arxiv.org/abs/2601.22706)|null|
 |**2026-01-27**|**AgenticSCR: An Autonomous Agentic Secure Code Review for Immature Vulnerabilities Detection**|Wachiraphan Charoenwet et.al.|[2601.19138](http://arxiv.org/abs/2601.19138)|null|
