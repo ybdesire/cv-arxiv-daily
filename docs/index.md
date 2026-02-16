@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.11
+## Updated on 2026.02.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -22,6 +22,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**An Empirical Study of the Imbalance Issue in Software Vulnerability Detection**|Yuejun Guo et.al.|[2602.12038](http://arxiv.org/abs/2602.12038)|null|
+|**2026-02-11**|**VulReaD: Knowledge-Graph-guided Software Vulnerability Reasoning and Detection**|Samal Mukhtar et.al.|[2602.10787](http://arxiv.org/abs/2602.10787)|null|
+|**2026-02-11**|**SecCodePRM: A Process Reward Model for Code Security**|Weichen Yu et.al.|[2602.10418](http://arxiv.org/abs/2602.10418)|null|
 |**2026-02-10**|**ReSIM: Re-ranking Binary Similarity Embeddings to Improve Function Search Performance**|Gianluca Capozzi et.al.|[2602.09548](http://arxiv.org/abs/2602.09548)|null|
 |**2026-02-07**|**Secure Code Generation via Online Reinforcement Learning with Vulnerability Reward Model**|Tianyi Wu et.al.|[2602.07422](http://arxiv.org/abs/2602.07422)|null|
 |**2026-02-05**|**Artificial Intelligence in Open Source Software Engineering: A Foundation for Sustainability**|S M Rakib UI Karim et.al.|[2602.07071](http://arxiv.org/abs/2602.07071)|null|
