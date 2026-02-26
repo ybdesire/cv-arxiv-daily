@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.23
+## Updated on 2026.02.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -22,10 +22,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**MultiVer: Zero-Shot Multi-Agent Vulnerability Detection**|Shreshth Rajan et.al.|[2602.17875](http://arxiv.org/abs/2602.17875)|null|
+|**2026-02-18**|**Can Adversarial Code Comments Fool AI Security Reviewers -- Large-Scale Empirical Study of Comment-Based Attacks and Defenses Against LLM Code Analysis**|Scott Thornton et.al.|[2602.16741](http://arxiv.org/abs/2602.16741)|null|
+|**2026-02-15**|**AXE: An Agentic eXploit Engine for Confirming Zero-Day Vulnerability Reports**|Amirali Sajadi et.al.|[2602.14345](http://arxiv.org/abs/2602.14345)|null|
+|**2026-02-15**|**From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection**|Youpeng Li et.al.|[2602.14012](http://arxiv.org/abs/2602.14012)|null|
 |**2026-02-12**|**An Empirical Study of the Imbalance Issue in Software Vulnerability Detection**|Yuejun Guo et.al.|[2602.12038](http://arxiv.org/abs/2602.12038)|null|
 |**2026-02-11**|**VulReaD: Knowledge-Graph-guided Software Vulnerability Reasoning and Detection**|Samal Mukhtar et.al.|[2602.10787](http://arxiv.org/abs/2602.10787)|null|
 |**2026-02-11**|**SecCodePRM: A Process Reward Model for Code Security**|Weichen Yu et.al.|[2602.10418](http://arxiv.org/abs/2602.10418)|null|
-|**2026-02-10**|**ReSIM: Re-ranking Binary Similarity Embeddings to Improve Function Search Performance**|Gianluca Capozzi et.al.|[2602.09548](http://arxiv.org/abs/2602.09548)|null|
+|**2026-02-23**|**ReSIM: Re-ranking Binary Similarity Embeddings to Improve Function Search Performance**|Gianluca Capozzi et.al.|[2602.09548](http://arxiv.org/abs/2602.09548)|null|
 |**2026-02-07**|**Secure Code Generation via Online Reinforcement Learning with Vulnerability Reward Model**|Tianyi Wu et.al.|[2602.07422](http://arxiv.org/abs/2602.07422)|null|
 |**2026-02-05**|**Artificial Intelligence in Open Source Software Engineering: A Foundation for Sustainability**|S M Rakib UI Karim et.al.|[2602.07071](http://arxiv.org/abs/2602.07071)|null|
 |**2026-02-06**|**Beyond Function-Level Analysis: Context-Aware Reasoning for Inter-Procedural Vulnerability Detection**|Yikun Li et.al.|[2602.06751](http://arxiv.org/abs/2602.06751)|null|
