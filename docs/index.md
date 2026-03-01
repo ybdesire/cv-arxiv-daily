@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.26
+## Updated on 2026.03.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -22,6 +22,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**Automated Vulnerability Detection in Source Code Using Deep Representation Learning**|C. Seas et.al.|[2602.23121](http://arxiv.org/abs/2602.23121)|null|
 |**2026-02-19**|**MultiVer: Zero-Shot Multi-Agent Vulnerability Detection**|Shreshth Rajan et.al.|[2602.17875](http://arxiv.org/abs/2602.17875)|null|
 |**2026-02-18**|**Can Adversarial Code Comments Fool AI Security Reviewers -- Large-Scale Empirical Study of Comment-Based Attacks and Defenses Against LLM Code Analysis**|Scott Thornton et.al.|[2602.16741](http://arxiv.org/abs/2602.16741)|null|
 |**2026-02-15**|**AXE: An Agentic eXploit Engine for Confirming Zero-Day Vulnerability Reports**|Amirali Sajadi et.al.|[2602.14345](http://arxiv.org/abs/2602.14345)|null|
