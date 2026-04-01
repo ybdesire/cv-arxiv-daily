@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.31
+## Updated on 2026.04.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -23,6 +23,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-31**|**Software Vulnerability Detection Using a Lightweight Graph Neural Network**|Miles Farmer et.al.|[2603.29216](http://arxiv.org/abs/2603.29216)|null|
 |**2026-03-30**|**VulnScout-C: A Lightweight Transformer for C Code Vulnerability Detection**|Aymen Lassoued et.al.|[2603.28309](http://arxiv.org/abs/2603.28309)|null|
 |**2026-03-30**|**ORACAL: A Robust and Explainable Multimodal Framework for Smart Contract Vulnerability Detection with Causal Graph Enrichment**|Tran Duong Minh Dai et.al.|[2603.28128](http://arxiv.org/abs/2603.28128)|null|
 |**2026-03-29**|**Robust Smart Contract Vulnerability Detection via Contrastive Learning-Enhanced Granular-ball Training**|Zeli Wang et.al.|[2603.27734](http://arxiv.org/abs/2603.27734)|null|
