@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.01
+## Updated on 2026.04.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -23,6 +23,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-03**|**ContractShield: Bridging Semantic-Structural Gaps via Hierarchical Cross-Modal Fusion for Multi-Label Vulnerability Detection in Obfuscated Smart Contracts**|Minh-Dai Tran-Duong et.al.|[2604.02771](http://arxiv.org/abs/2604.02771)|null|
+|**2026-04-02**|**From Theory to Practice: Code Generation Using LLMs for CAPEC and CWE Frameworks**|Murtuza Shahzad et.al.|[2604.02548](http://arxiv.org/abs/2604.02548)|null|
+|**2026-04-02**|**RuleForge: Automated Generation and Validation for Web Vulnerability Detection at Scale**|Ayush Garg et.al.|[2604.01977](http://arxiv.org/abs/2604.01977)|null|
+|**2026-04-02**|**Seclens: Role-specific Evaluation of LLM's for security vulnerablity detection**|Subho Halder et.al.|[2604.01637](http://arxiv.org/abs/2604.01637)|null|
+|**2026-04-01**|**Obfuscating Code Vulnerabilities against Static Analysis in JavaScript Code**|Francesco Pagano et.al.|[2604.01131](http://arxiv.org/abs/2604.01131)|null|
+|**2026-03-31**|**Efficient Software Vulnerability Detection Using Transformer-based Models**|Sameer Shaik et.al.|[2604.00112](http://arxiv.org/abs/2604.00112)|null|
+|**2026-03-31**|**When Labels Are Scarce: A Systematic Mapping of Label-Efficient Code Vulnerability Detection**|Noor Khalal et.al.|[2604.00079](http://arxiv.org/abs/2604.00079)|null|
 |**2026-03-31**|**Software Vulnerability Detection Using a Lightweight Graph Neural Network**|Miles Farmer et.al.|[2603.29216](http://arxiv.org/abs/2603.29216)|null|
 |**2026-03-30**|**VulnScout-C: A Lightweight Transformer for C Code Vulnerability Detection**|Aymen Lassoued et.al.|[2603.28309](http://arxiv.org/abs/2603.28309)|null|
 |**2026-03-30**|**ORACAL: A Robust and Explainable Multimodal Framework for Smart Contract Vulnerability Detection with Causal Graph Enrichment**|Tran Duong Minh Dai et.al.|[2603.28128](http://arxiv.org/abs/2603.28128)|null|
@@ -107,6 +114,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-01**|**Obfuscating Code Vulnerabilities against Static Analysis in JavaScript Code**|Francesco Pagano et.al.|[2604.01131](http://arxiv.org/abs/2604.01131)|null|
 |**2026-03-24**|**Agent Audit: A Security Analysis System for LLM Agent Applications**|Haiyue Zhang et.al.|[2603.22853](http://arxiv.org/abs/2603.22853)|null|
 |**2026-03-14**|**Sharpness Aware Surrogate Training for Spiking Neural Networks**|Maximilian Nicholson et.al.|[2603.18039](http://arxiv.org/abs/2603.18039)|null|
 |**2026-03-11**|**FP-Predictor - False Positive Prediction for Static Analysis Reports**|Tom Ohlmer et.al.|[2603.10558](http://arxiv.org/abs/2603.10558)|null|
