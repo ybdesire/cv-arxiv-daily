@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.06
+## Updated on 2026.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -23,6 +23,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**Vulnerability Detection with Interprocedural Context in Multiple Languages: Assessing Effectiveness and Cost of Modern LLMs**|Kevin Lira et.al.|[2604.08417](http://arxiv.org/abs/2604.08417)|null|
+|**2026-04-08**|**Argus: Reorchestrating Static Analysis via a Multi-Agent Ensemble for Full-Chain Security Vulnerability Detection**|Zi Liang et.al.|[2604.06633](http://arxiv.org/abs/2604.06633)|null|
+|**2026-04-07**|**Guiding Symbolic Execution with Static Analysis and LLMs for Vulnerability Discovery**|Md Shafiuzzaman et.al.|[2604.06506](http://arxiv.org/abs/2604.06506)|null|
 |**2026-04-03**|**ContractShield: Bridging Semantic-Structural Gaps via Hierarchical Cross-Modal Fusion for Multi-Label Vulnerability Detection in Obfuscated Smart Contracts**|Minh-Dai Tran-Duong et.al.|[2604.02771](http://arxiv.org/abs/2604.02771)|null|
 |**2026-04-02**|**From Theory to Practice: Code Generation Using LLMs for CAPEC and CWE Frameworks**|Murtuza Shahzad et.al.|[2604.02548](http://arxiv.org/abs/2604.02548)|null|
 |**2026-04-02**|**RuleForge: Automated Generation and Validation for Web Vulnerability Detection at Scale**|Ayush Garg et.al.|[2604.01977](http://arxiv.org/abs/2604.01977)|null|
@@ -114,6 +117,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**Argus: Reorchestrating Static Analysis via a Multi-Agent Ensemble for Full-Chain Security Vulnerability Detection**|Zi Liang et.al.|[2604.06633](http://arxiv.org/abs/2604.06633)|null|
 |**2026-04-01**|**Obfuscating Code Vulnerabilities against Static Analysis in JavaScript Code**|Francesco Pagano et.al.|[2604.01131](http://arxiv.org/abs/2604.01131)|null|
 |**2026-03-24**|**Agent Audit: A Security Analysis System for LLM Agent Applications**|Haiyue Zhang et.al.|[2603.22853](http://arxiv.org/abs/2603.22853)|null|
 |**2026-03-14**|**Sharpness Aware Surrogate Training for Spiking Neural Networks**|Maximilian Nicholson et.al.|[2603.18039](http://arxiv.org/abs/2603.18039)|null|
