@@ -1,4 +1,4 @@
-## Updated on 2026.04.11
+## Updated on 2026.04.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,7 +18,7 @@
 |---|---|---|---|---|
 |**2021-10-14**|**Active SLAM over Continuous Trajectory and Control: A Covariance-Feedback Approach**|Shumon Koga et.al.|[2110.07546](http://arxiv.org/abs/2110.07546)|null|
 
-<p align=right>(<a href=#updated-on-20260411>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260413>back to top</a>)</p>
 
 ## LLMVulDetect
 
@@ -28,7 +28,7 @@
 |**2025-12-24**|**CoTDeceptor:Adversarial Code Obfuscation Against CoT-Enhanced LLM Code Agents**|Haoyang Li et.al.|[2512.21250](http://arxiv.org/abs/2512.21250)|null|
 |**2025-04-05**|**Responsible Development of Offensive AI**|Ryan Marinelli et.al.|[2504.02701](http://arxiv.org/abs/2504.02701)|null|
 
-<p align=right>(<a href=#updated-on-20260411>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260413>back to top</a>)</p>
 
 ## VulDetect
 
@@ -109,7 +109,7 @@
 |**2025-12-14**|**SHERLOCK: A Deep Learning Approach To Detect Software Vulnerabilities**|Saadh Jawwadh et.al.|[2512.12593](http://arxiv.org/abs/2512.12593)|null|
 |**2025-12-14**|**Diverse LLMs vs. Vulnerabilities: Who Detects and Fixes Them Better?**|Arastoo Zibaeirad et.al.|[2512.12536](http://arxiv.org/abs/2512.12536)|null|
 
-<p align=right>(<a href=#updated-on-20260411>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260413>back to top</a>)</p>
 
 ## FirmwareVulDetect
 
@@ -126,7 +126,7 @@
 |**2022-02-05**|**Iota: A Framework for Analyzing System-Level Security of IoTs**|Zheng Fang et.al.|[2202.02506](http://arxiv.org/abs/2202.02506)|null|
 |**2021-12-29**|**IoT Security Challenges and Mitigations: An Introduction**|Stuart Millar et.al.|[2112.14618](http://arxiv.org/abs/2112.14618)|null|
 
-<p align=right>(<a href=#updated-on-20260411>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260413>back to top</a>)</p>
 
 ## SAST
 
@@ -156,7 +156,7 @@
 |**2025-08-08**|**SCAR: State-Space Compression for AI-Driven Resource Management in 6G-Enabled Vehicular Infotainment Systems**|Ioan-Sorin Comsa et.al.|[2508.06243](http://arxiv.org/abs/2508.06243)|null|
 |**2025-10-15**|**Dependency Pairs for Expected Innermost Runtime Complexity and Strong Almost-Sure Termination of Probabilistic Term Rewriting**|Jan-Christoph Kassing et.al.|[2507.12918](http://arxiv.org/abs/2507.12918)|null|
 
-<p align=right>(<a href=#updated-on-20260411>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260413>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
