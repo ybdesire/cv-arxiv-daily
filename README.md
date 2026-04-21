@@ -1,4 +1,4 @@
-## Updated on 2026.04.20
+## Updated on 2026.04.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,7 +18,7 @@
 |---|---|---|---|---|
 |**2021-10-14**|**Active SLAM over Continuous Trajectory and Control: A Covariance-Feedback Approach**|Shumon Koga et.al.|[2110.07546](http://arxiv.org/abs/2110.07546)|null|
 
-<p align=right>(<a href=#updated-on-20260420>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260421>back to top</a>)</p>
 
 ## LLMVulDetect
 
@@ -28,12 +28,13 @@
 |**2025-12-24**|**CoTDeceptor:Adversarial Code Obfuscation Against CoT-Enhanced LLM Code Agents**|Haoyang Li et.al.|[2512.21250](http://arxiv.org/abs/2512.21250)|null|
 |**2025-04-05**|**Responsible Development of Offensive AI**|Ryan Marinelli et.al.|[2504.02701](http://arxiv.org/abs/2504.02701)|null|
 
-<p align=right>(<a href=#updated-on-20260420>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260421>back to top</a>)</p>
 
 ## VulDetect
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-15**|**AndroScanner: Automated Backend Vulnerability Detection for Android Applications**|Harini Dandu et.al.|[2604.14431](http://arxiv.org/abs/2604.14431)|null|
 |**2026-04-15**|**Learned or Memorized ? Quantifying Memorization Advantage in Code LLMs**|Djiré Albérick Euraste et.al.|[2604.13997](http://arxiv.org/abs/2604.13997)|null|
 |**2026-04-12**|**VulWeaver: Weaving Broken Semantics for Grounded Vulnerability Detection**|Yiheng Cao et.al.|[2604.10767](http://arxiv.org/abs/2604.10767)|null|
 |**2026-04-09**|**Vulnerability Detection with Interprocedural Context in Multiple Languages: Assessing Effectiveness and Cost of Modern LLMs**|Kevin Lira et.al.|[2604.08417](http://arxiv.org/abs/2604.08417)|null|
@@ -111,7 +112,7 @@
 |**2025-12-14**|**SHERLOCK: A Deep Learning Approach To Detect Software Vulnerabilities**|Saadh Jawwadh et.al.|[2512.12593](http://arxiv.org/abs/2512.12593)|null|
 |**2025-12-14**|**Diverse LLMs vs. Vulnerabilities: Who Detects and Fixes Them Better?**|Arastoo Zibaeirad et.al.|[2512.12536](http://arxiv.org/abs/2512.12536)|null|
 
-<p align=right>(<a href=#updated-on-20260420>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260421>back to top</a>)</p>
 
 ## FirmwareVulDetect
 
@@ -128,12 +129,13 @@
 |**2022-02-05**|**Iota: A Framework for Analyzing System-Level Security of IoTs**|Zheng Fang et.al.|[2202.02506](http://arxiv.org/abs/2202.02506)|null|
 |**2021-12-29**|**IoT Security Challenges and Mitigations: An Introduction**|Stuart Millar et.al.|[2112.14618](http://arxiv.org/abs/2112.14618)|null|
 
-<p align=right>(<a href=#updated-on-20260420>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260421>back to top</a>)</p>
 
 ## SAST
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-20**|**TitanCA: Lessons from Orchestrating LLM Agents to Discover 100+ CVEs**|Ting Zhang et.al.|[2604.17860](http://arxiv.org/abs/2604.17860)|null|
 |**2026-04-15**|**RealVuln: Benchmarking Rule-Based, General-Purpose LLM, and Security-Specialized Scanners on Real-World Code**|John Pellew et.al.|[2604.13764](http://arxiv.org/abs/2604.13764)|null|
 |**2026-04-06**|**Sharpness-Aware Surrogate Training for On-Sensor Spiking Neural Networks**|Maximilian Nicholson et.al.|[2604.09696](http://arxiv.org/abs/2604.09696)|null|
 |**2026-04-08**|**Argus: Reorchestrating Static Analysis via a Multi-Agent Ensemble for Full-Chain Security Vulnerability Detection**|Zi Liang et.al.|[2604.06633](http://arxiv.org/abs/2604.06633)|null|
@@ -160,7 +162,7 @@
 |**2025-08-08**|**SCAR: State-Space Compression for AI-Driven Resource Management in 6G-Enabled Vehicular Infotainment Systems**|Ioan-Sorin Comsa et.al.|[2508.06243](http://arxiv.org/abs/2508.06243)|null|
 |**2025-10-15**|**Dependency Pairs for Expected Innermost Runtime Complexity and Strong Almost-Sure Termination of Probabilistic Term Rewriting**|Jan-Christoph Kassing et.al.|[2507.12918](http://arxiv.org/abs/2507.12918)|null|
 
-<p align=right>(<a href=#updated-on-20260420>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260421>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
