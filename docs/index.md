@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.21
+## Updated on 2026.04.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -23,6 +23,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**CrossCommitVuln-Bench: A Dataset of Multi-Commit Python Vulnerabilities Invisible to Per-Commit Static Analysis**|Arunabh Majumdar et.al.|[2604.21917](http://arxiv.org/abs/2604.21917)|null|
+|**2026-04-23**|**Strategic Heterogeneous Multi-Agent Architecture for Cost-Effective Code Vulnerability Detection**|Zhaohui Geoffrey Wang et.al.|[2604.21282](http://arxiv.org/abs/2604.21282)|null|
+|**2026-04-22**|**A Ground-Truth-Based Evaluation of Vulnerability Detection Across Multiple Ecosystems**|Peter Mandl et.al.|[2604.21111](http://arxiv.org/abs/2604.21111)|null|
+|**2026-04-22**|**Residual Risk Analysis in Benign Code: How Far Are We? A Multi-Model Semantic and Structural Similarity Approach**|Mohammad Farhad et.al.|[2604.21051](http://arxiv.org/abs/2604.21051)|null|
+|**2026-04-22**|**Taint-Style Vulnerability Detection and Confirmation for Node.js Packages Using LLM Agent Reasoning**|Ronghao Ni et.al.|[2604.20179](http://arxiv.org/abs/2604.20179)|null|
+|**2026-04-21**|**SAGE: Signal-Amplified Guided Embeddings for LLM-based Vulnerability Detection**|Zhengyang Shan et.al.|[2604.19031](http://arxiv.org/abs/2604.19031)|null|
+|**2026-04-21**|**Security Is Relative: Training-Free Vulnerability Detection via Multi-Agent Behavioral Contract Synthesis**|Yongchao Wang et.al.|[2604.19012](http://arxiv.org/abs/2604.19012)|null|
 |**2026-04-15**|**AndroScanner: Automated Backend Vulnerability Detection for Android Applications**|Harini Dandu et.al.|[2604.14431](http://arxiv.org/abs/2604.14431)|null|
 |**2026-04-15**|**Learned or Memorized ? Quantifying Memorization Advantage in Code LLMs**|Djiré Albérick Euraste et.al.|[2604.13997](http://arxiv.org/abs/2604.13997)|null|
 |**2026-04-12**|**VulWeaver: Weaving Broken Semantics for Grounded Vulnerability Detection**|Yiheng Cao et.al.|[2604.10767](http://arxiv.org/abs/2604.10767)|null|
@@ -120,6 +127,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**CrossCommitVuln-Bench: A Dataset of Multi-Commit Python Vulnerabilities Invisible to Per-Commit Static Analysis**|Arunabh Majumdar et.al.|[2604.21917](http://arxiv.org/abs/2604.21917)|null|
 |**2026-04-20**|**TitanCA: Lessons from Orchestrating LLM Agents to Discover 100+ CVEs**|Ting Zhang et.al.|[2604.17860](http://arxiv.org/abs/2604.17860)|null|
 |**2026-04-15**|**RealVuln: Benchmarking Rule-Based, General-Purpose LLM, and Security-Specialized Scanners on Real-World Code**|John Pellew et.al.|[2604.13764](http://arxiv.org/abs/2604.13764)|null|
 |**2026-04-06**|**Sharpness-Aware Surrogate Training for On-Sensor Spiking Neural Networks**|Maximilian Nicholson et.al.|[2604.09696](http://arxiv.org/abs/2604.09696)|null|
