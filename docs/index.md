@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.27
+## Updated on 2026.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -23,6 +23,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**How Code Representation Shapes False-Positive Dynamics in Cross-Language LLM Vulnerability Detection**|Maofei Chen et.al.|[2604.27714](http://arxiv.org/abs/2604.27714)|null|
+|**2026-04-29**|**Adaptive and AI-Augmented Security Testing: A Systematic Survey of Program Analysis, Feedback-Driven Testing, and Hybrid Learning-Based Approaches**|Michael Wienczkowski et.al.|[2604.27000](http://arxiv.org/abs/2604.27000)|null|
+|**2026-04-29**|**VulStyle: A Multi-Modal Pre-Training for Code Stylometry-Augmented Vulnerability Detection**|Chidera Biringa et.al.|[2604.26313](http://arxiv.org/abs/2604.26313)|null|
+|**2026-04-30**|**Learning Generalizable Multimodal Representations for Software Vulnerability Detection**|Zeming Dong et.al.|[2604.25711](http://arxiv.org/abs/2604.25711)|null|
+|**2026-04-28**|**PLMGH: What Matters in PLM-GNN Hybrids for Code Classification and Vulnerability Detection**|Mohamed Taoufik Kaouthar El Idrissi et.al.|[2604.25599](http://arxiv.org/abs/2604.25599)|null|
+|**2026-04-27**|**A systematic literature Review for Transformer-based Software Vulnerability detection**|Fiza Naseer et.al.|[2604.24822](http://arxiv.org/abs/2604.24822)|null|
+|**2026-04-27**|**MAS-SZZ: Multi-Agentic SZZ Algorithm for Vulnerability-Inducing Commit Identification**|Sicong Cao et.al.|[2604.24398](http://arxiv.org/abs/2604.24398)|null|
 |**2026-04-23**|**CrossCommitVuln-Bench: A Dataset of Multi-Commit Python Vulnerabilities Invisible to Per-Commit Static Analysis**|Arunabh Majumdar et.al.|[2604.21917](http://arxiv.org/abs/2604.21917)|null|
 |**2026-04-23**|**Strategic Heterogeneous Multi-Agent Architecture for Cost-Effective Code Vulnerability Detection**|Zhaohui Geoffrey Wang et.al.|[2604.21282](http://arxiv.org/abs/2604.21282)|null|
 |**2026-04-22**|**A Ground-Truth-Based Evaluation of Vulnerability Detection Across Multiple Ecosystems**|Peter Mandl et.al.|[2604.21111](http://arxiv.org/abs/2604.21111)|null|
