@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.06
+## Updated on 2026.05.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -23,6 +23,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-08**|**Longitudinal Analyses of SAST Tools: A CodeQL Case Study**|Jean-Charles Noirot Ferrand et.al.|[2605.07900](http://arxiv.org/abs/2605.07900)|null|
+|**2026-05-08**|**Securing the Dark Matter: A Semantic-Enhanced Neuro-Symbolic Framework for Supply Chain Analysis of Opaque Industrial Software**|Bowei Ning et.al.|[2605.07737](http://arxiv.org/abs/2605.07737)|null|
+|**2026-05-05**|**Lightweight Vulnerability Detection from Code Metrics and Token Features**|Chun Yin Chiu et.al.|[2605.04260](http://arxiv.org/abs/2605.04260)|null|
 |**2026-05-05**|**Tailored Prompts, Targeted Protection: Vulnerability-Specific LLM Analysis for Smart Contracts**|Xing Zhang et.al.|[2605.03697](http://arxiv.org/abs/2605.03697)|null|
 |**2026-05-04**|**Zero Day Attacks: Novel Behaviour or Novel Vulnerability?**|Nnamdi Jibunoh et.al.|[2605.03138](http://arxiv.org/abs/2605.03138)|null|
 |**2026-05-04**|**EvoPoC: Automated Exploit Synthesis for DeFi Smart Contracts via Hierarchical Knowledge Graphs**|Ruichao Liang et.al.|[2605.02868](http://arxiv.org/abs/2605.02868)|null|
@@ -138,6 +141,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-08**|**Longitudinal Analyses of SAST Tools: A CodeQL Case Study**|Jean-Charles Noirot Ferrand et.al.|[2605.07900](http://arxiv.org/abs/2605.07900)|null|
 |**2026-05-03**|**QASecClaw: A Multi-Agent LLM Approach for False Positive Reduction in Static Application Security Testing**|Mohd Ruhul Ameen et.al.|[2605.01885](http://arxiv.org/abs/2605.01885)|null|
 |**2026-04-23**|**CrossCommitVuln-Bench: A Dataset of Multi-Commit Python Vulnerabilities Invisible to Per-Commit Static Analysis**|Arunabh Majumdar et.al.|[2604.21917](http://arxiv.org/abs/2604.21917)|null|
 |**2026-04-20**|**TitanCA: Lessons from Orchestrating LLM Agents to Discover 100+ CVEs**|Ting Zhang et.al.|[2604.17860](http://arxiv.org/abs/2604.17860)|null|
