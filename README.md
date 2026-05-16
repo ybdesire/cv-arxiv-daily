@@ -1,4 +1,4 @@
-## Updated on 2026.05.11
+## Updated on 2026.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,7 +18,7 @@
 |---|---|---|---|---|
 |**2021-10-14**|**Active SLAM over Continuous Trajectory and Control: A Covariance-Feedback Approach**|Shumon Koga et.al.|[2110.07546](http://arxiv.org/abs/2110.07546)|null|
 
-<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260516>back to top</a>)</p>
 
 ## LLMVulDetect
 
@@ -28,12 +28,18 @@
 |**2025-12-24**|**CoTDeceptor:Adversarial Code Obfuscation Against CoT-Enhanced LLM Code Agents**|Haoyang Li et.al.|[2512.21250](http://arxiv.org/abs/2512.21250)|null|
 |**2025-04-05**|**Responsible Development of Offensive AI**|Ryan Marinelli et.al.|[2504.02701](http://arxiv.org/abs/2504.02701)|null|
 
-<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260516>back to top</a>)</p>
 
 ## VulDetect
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-14**|**Veritas: A Semantically Grounded Agentic Framework for Memory Corruption Vulnerability Detection in Binaries**|Xinran Zheng et.al.|[2605.15097](http://arxiv.org/abs/2605.15097)|null|
+|**2026-05-10**|**DCVD: Dual-Channel Cross-Modal Fusion for Joint Vulnerability Detection and Localization**|Wenxin Tang et.al.|[2605.11015](http://arxiv.org/abs/2605.11015)|null|
+|**2026-05-11**|**Threat Modelling using Domain-Adapted Language Models: Empirical Evaluation and Insights**|Saba Pourhanifeh et.al.|[2605.10808](http://arxiv.org/abs/2605.10808)|null|
+|**2026-05-11**|**MARGIN: Margin-Aware Regularized Geometry for Imbalanced Vulnerability Detection**|Yuteng Zhang et.al.|[2605.10240](http://arxiv.org/abs/2605.10240)|null|
+|**2026-05-12**|**VulTriage: Triple-Path Context Augmentation for LLM-Based Vulnerability Detection**|Wenxin Tang et.al.|[2605.09461](http://arxiv.org/abs/2605.09461)|null|
+|**2026-05-09**|**Smart Contract Security Beyond Detection**|Tamer Abdelaziz et.al.|[2605.09124](http://arxiv.org/abs/2605.09124)|null|
 |**2026-05-08**|**Longitudinal Analyses of SAST Tools: A CodeQL Case Study**|Jean-Charles Noirot Ferrand et.al.|[2605.07900](http://arxiv.org/abs/2605.07900)|null|
 |**2026-05-08**|**Securing the Dark Matter: A Semantic-Enhanced Neuro-Symbolic Framework for Supply Chain Analysis of Opaque Industrial Software**|Bowei Ning et.al.|[2605.07737](http://arxiv.org/abs/2605.07737)|null|
 |**2026-05-05**|**Lightweight Vulnerability Detection from Code Metrics and Token Features**|Chun Yin Chiu et.al.|[2605.04260](http://arxiv.org/abs/2605.04260)|null|
@@ -133,7 +139,7 @@
 |**2025-12-14**|**SHERLOCK: A Deep Learning Approach To Detect Software Vulnerabilities**|Saadh Jawwadh et.al.|[2512.12593](http://arxiv.org/abs/2512.12593)|null|
 |**2025-12-14**|**Diverse LLMs vs. Vulnerabilities: Who Detects and Fixes Them Better?**|Arastoo Zibaeirad et.al.|[2512.12536](http://arxiv.org/abs/2512.12536)|null|
 
-<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260516>back to top</a>)</p>
 
 ## FirmwareVulDetect
 
@@ -150,7 +156,7 @@
 |**2022-02-05**|**Iota: A Framework for Analyzing System-Level Security of IoTs**|Zheng Fang et.al.|[2202.02506](http://arxiv.org/abs/2202.02506)|null|
 |**2021-12-29**|**IoT Security Challenges and Mitigations: An Introduction**|Stuart Millar et.al.|[2112.14618](http://arxiv.org/abs/2112.14618)|null|
 
-<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260516>back to top</a>)</p>
 
 ## SAST
 
@@ -186,7 +192,7 @@
 |**2025-08-08**|**SCAR: State-Space Compression for AI-Driven Resource Management in 6G-Enabled Vehicular Infotainment Systems**|Ioan-Sorin Comsa et.al.|[2508.06243](http://arxiv.org/abs/2508.06243)|null|
 |**2025-10-15**|**Dependency Pairs for Expected Innermost Runtime Complexity and Strong Almost-Sure Termination of Probabilistic Term Rewriting**|Jan-Christoph Kassing et.al.|[2507.12918](http://arxiv.org/abs/2507.12918)|null|
 
-<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260516>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

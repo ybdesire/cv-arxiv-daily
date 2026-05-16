@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.11
+## Updated on 2026.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -23,6 +23,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**Veritas: A Semantically Grounded Agentic Framework for Memory Corruption Vulnerability Detection in Binaries**|Xinran Zheng et.al.|[2605.15097](http://arxiv.org/abs/2605.15097)|null|
+|**2026-05-10**|**DCVD: Dual-Channel Cross-Modal Fusion for Joint Vulnerability Detection and Localization**|Wenxin Tang et.al.|[2605.11015](http://arxiv.org/abs/2605.11015)|null|
+|**2026-05-11**|**Threat Modelling using Domain-Adapted Language Models: Empirical Evaluation and Insights**|Saba Pourhanifeh et.al.|[2605.10808](http://arxiv.org/abs/2605.10808)|null|
+|**2026-05-11**|**MARGIN: Margin-Aware Regularized Geometry for Imbalanced Vulnerability Detection**|Yuteng Zhang et.al.|[2605.10240](http://arxiv.org/abs/2605.10240)|null|
+|**2026-05-12**|**VulTriage: Triple-Path Context Augmentation for LLM-Based Vulnerability Detection**|Wenxin Tang et.al.|[2605.09461](http://arxiv.org/abs/2605.09461)|null|
+|**2026-05-09**|**Smart Contract Security Beyond Detection**|Tamer Abdelaziz et.al.|[2605.09124](http://arxiv.org/abs/2605.09124)|null|
 |**2026-05-08**|**Longitudinal Analyses of SAST Tools: A CodeQL Case Study**|Jean-Charles Noirot Ferrand et.al.|[2605.07900](http://arxiv.org/abs/2605.07900)|null|
 |**2026-05-08**|**Securing the Dark Matter: A Semantic-Enhanced Neuro-Symbolic Framework for Supply Chain Analysis of Opaque Industrial Software**|Bowei Ning et.al.|[2605.07737](http://arxiv.org/abs/2605.07737)|null|
 |**2026-05-05**|**Lightweight Vulnerability Detection from Code Metrics and Token Features**|Chun Yin Chiu et.al.|[2605.04260](http://arxiv.org/abs/2605.04260)|null|
